@@ -1,0 +1,7 @@
+variableName,description,variableType,units
+Date_Collected,The date that the rodent was collected,date,NA
+Plot,"The plot within which the rodent was collected (1,2,3,4,17 and 20)",real,NA
+Species,"Two letter abbreviation of the rodent species captured, left blank if indistinguishable",string,NA
+Sex,"Sex of captured rodent, left blank if sex indistinguishable",string,NA
+Weight_g,"Weight measurement of collected rodent, left blank if unmeasured",real,g
+Scale_Calibration_Status,"Status of scale used for weight measurement, left blank if calibrated, marked NC if not calibrated",string,NA
